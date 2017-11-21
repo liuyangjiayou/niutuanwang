@@ -39,7 +39,7 @@
     text-decoration: none;
     display: flex;
     justify-content: center;
-    flex: 1;
+    flex: 3;
     height: .59rem;
     line-height: .59rem;
     font-size: .28rem;
@@ -48,8 +48,7 @@
     color: #fff;
   }
   .nav-list div{
-    display: flex;
-    flex: 2.5;
+    width: 3.09rem;
     height: .59rem;
     line-height: .59rem;
     box-sizing: border-box;

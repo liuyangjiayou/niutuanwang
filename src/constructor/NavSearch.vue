@@ -1,4 +1,5 @@
 <template>
+  <!--这是搜索input部分-->
     <div class="search-module">
       <div class="logo">
         <img src="../../static/img/long.png" alt="">
@@ -97,6 +98,7 @@
     height: .24rem;
     line-height: .24rem;
     text-align: center;
+    cursor: pointer;
   }
   .shop-cart{
     display: flex;
