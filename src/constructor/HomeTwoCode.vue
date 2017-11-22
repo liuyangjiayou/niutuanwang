@@ -27,6 +27,7 @@
     font-size: .16rem;
     border-right: 1px solid #f2f2f2;
     border-bottom: 1px solid #f2f2f2;
+    background-color: #fff;
   }
   .code-box .code-img{
     width: 100%;

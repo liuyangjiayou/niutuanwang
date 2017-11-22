@@ -17,6 +17,22 @@
       <!--这是领卷中心-->
       <roll></roll>
     </div>
+    <!--这是满屏的横条图片-->
+    <scrollimg></scrollimg>
+    <div class="main">
+      <!--这是横条大标题-->
+      <scrollTitle title="购特色"></scrollTitle>
+    </div>
+    <!--这是购特色的图片列表-->
+    <featureImg></featureImg>
+    <scrollimg class="scroll-img"></scrollimg>
+    <!--这是主题模块-->
+    <div class="main">
+      <foodieImgList title="美食"></foodieImgList>
+      <foodieImgList title="休闲娱乐"></foodieImgList>
+      <foodieImgList title="酒店"></foodieImgList>
+      <foodieImgList title="电影"></foodieImgList>
+    </div>
   </div>
 </template>
 <script>
@@ -28,6 +44,10 @@
   import HomeTwoCode from '../constructor/HomeTwoCode.vue'
   import FoodieSeckill from '../constructor/FoodieSeckill.vue'
   import Roll from '../constructor/Roll.vue'
+  import Scrollimg from '../constructor/Scrollimg.vue'
+  import ScrollTitle from '../constructor/ScrollTitle.vue'
+  import FeatureImg from '../constructor/FeatureImg.vue'
+  import FoodieImgList from '../constructor/FoodieImgList.vue'
   export default {
     data(){
       return {}
@@ -41,6 +61,10 @@
       HomeTwoCode,
       FoodieSeckill,
       Roll,
+      Scrollimg,
+      ScrollTitle,
+      FeatureImg,
+      FoodieImgList,
     },
     methods: {}
   }
@@ -50,9 +74,13 @@
     width: 15rem;
     margin: 0 auto;
   }
-  .map-list-box{
+
+  .map-list-box {
     display: flex;
     flex-direction: row;
   }
 
+  .scroll-img {
+    margin-top: .36rem;
+  }
 </style>

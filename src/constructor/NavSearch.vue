@@ -110,6 +110,7 @@
     height: .44rem;
     border: 1px solid #e7e7e7;
     font-size: .12rem;
+    background-color: #fff;
   }
   .shop-cart img{
     margin-right: .08rem;

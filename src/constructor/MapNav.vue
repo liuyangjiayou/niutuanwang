@@ -86,6 +86,7 @@
     width: 9.29rem;
     border: 1px solid #f2f2f2;
     font-size: .14rem;
+    background-color: #fff;
   }
   .map-all-box{
     display: flex;
@@ -113,7 +114,7 @@
     background-color: red;
   }
   .map-all span{
-    margin-right: .28rem;
+    margin-right: .2rem;
     color: #959595;
     cursor: pointer;
   }
@@ -122,7 +123,7 @@
     flex-direction: row;
   }
   .map-list li{
-    margin-right: .3rem;
+    margin-right: .28rem;
     color: #666;
     cursor: pointer;
   }

@@ -87,6 +87,7 @@
     border: 1px solid #ededed;
     border-top: none;
     font-size: .16rem;
+    background-color: #fff;
   }
   .list-box li{
     display: flex;

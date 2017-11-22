@@ -7,7 +7,7 @@
     </div>
     <ul class="seckill-list">
       <li>
-        <div>
+        <div class="img-box">
           <img src="../../static/img/meishi4-2.png" alt="">
         </div>
         <p>林溪晚亭古法烤鱼</p>
@@ -21,7 +21,7 @@
         </div>
       </li>
       <li>
-        <div>
+        <div class="img-box">
           <img src="../../static/img/meishi4-2.png" alt="">
         </div>
         <p>林溪晚亭古法烤鱼</p>
@@ -35,7 +35,7 @@
         </div>
       </li>
       <li>
-        <div>
+        <div class="img-box">
           <img src="../../static/img/meishi4-2.png" alt="">
         </div>
         <p>林溪晚亭古法烤鱼</p>
@@ -49,7 +49,7 @@
         </div>
       </li>
       <li>
-        <div>
+        <div class="img-box">
           <img src="../../static/img/meishi4-2.png" alt="">
         </div>
         <p>林溪晚亭古法烤鱼</p>
@@ -63,7 +63,7 @@
         </div>
       </li>
       <li>
-        <div>
+        <div class="img-box">
           <img src="../../static/img/meishi4-2.png" alt="">
         </div>
         <p>林溪晚亭古法烤鱼</p>
@@ -93,6 +93,7 @@
     margin-top: .2rem;
     width: 100%;
     border-bottom: .05rem solid #fd245b;
+    background-color: #fff;
   }
 
   .foodie-seckill .header-img {
@@ -112,23 +113,34 @@
   }
 
   .seckill-list li {
+    position: relative;
     display: flex;
     flex-direction: column;
     margin-right: .27rem;
     width: 2.76rem;
   }
 
-  .seckill-list li div {
+  .seckill-list li .img-box {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 1.69rem;
   }
-
+  .seckill-list li .img-box:hover{
+    animation: imgBox .2s both;
+  }
+  @keyframes imgBox {
+    from { top: 0}
+    to {  top: -.05rem;}
+  }
   .seckill-list li img {
     width: 100%;
     height: 100%;
   }
 
   .seckill-list li p {
+    margin-top: 1.69rem;
     width: 100%;
     height: .5rem;
     line-height: .5rem;
@@ -140,6 +152,7 @@
   .seckill-list li .text {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     box-sizing: border-box;
     padding-top: .14rem;
     height: .7rem;
