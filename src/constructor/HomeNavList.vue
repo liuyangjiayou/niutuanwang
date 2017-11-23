@@ -8,6 +8,7 @@
         <router-link to="/cate">美食</router-link>
         <router-link to="/hotel">酒店</router-link>
         <router-link to="/film">电影</router-link>
+        <router-link to="/beauty">丽人</router-link>
         <router-link to="/travel">旅游</router-link>
         <router-link to="/leisure">娱乐休闲</router-link>
         <router-link to="/takeOut">外卖</router-link>

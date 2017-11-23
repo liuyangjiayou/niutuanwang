@@ -8,6 +8,7 @@ import Leisure from '../components/Leisure'
 import Service from '../components/Service'
 import TakeOut from '../components/TakeOut'
 import Travel from '../components/Travel'
+import Beauty from '../components/Beauty'
 Vue.use(Router);
 
 export default new Router({
@@ -27,6 +28,10 @@ export default new Router({
     {
       path: '/hotel',
       component: Hotel,
+    },
+    {
+      path : '/beauty',
+      component : Beauty
     },
     {
       path: '/leisure',
