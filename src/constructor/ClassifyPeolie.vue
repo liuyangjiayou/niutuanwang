@@ -32,6 +32,7 @@
     flex-direction: row;
     padding-top: .26rem;
     font-size: .16rem;
+    margin-bottom: .17rem;
   }
   .class-nav ul{
     display: flex;

@@ -1,4 +1,5 @@
 <template>
+  <!--这是酒店-->
   <div>
     <!--这是页面的上导航条-->
     <navHeader></navHeader>
@@ -6,6 +7,8 @@
     <div class="main">
       <navSearch></navSearch>
       <homeNavList></homeNavList>
+      <hotelMap></hotelMap>
+      <hotelModel></hotelModel>
     </div>
   </div>
 </template>
@@ -13,6 +16,8 @@
   import NavHeader from '../constructor/NavHeader.vue'
   import NavSearch from '../constructor/NavSearch.vue'
   import HomeNavList from '../constructor/HomeNavList.vue'
+  import HotelMap from '../constructor/HotelMap.vue'
+  import HotelModel from '../constructor/HotelModel.vue'
   export default {
     data(){
       return {}
@@ -21,6 +26,8 @@
       NavHeader,
       NavSearch,
       HomeNavList,
+      HotelMap,
+      HotelModel,
     },
     methods: {}
   }

@@ -306,6 +306,312 @@
           </ul>
         </div>
       </div>
+      <div class="foodie-list-box">
+        <div class="list-box">
+          <ul>
+            <li>
+              <div>
+                <img class="list-img" src="../../static/img/meishi-5.png" alt="">
+              </div>
+              <div class="content-box">
+                <div class="title">
+                  <div class="merchant">
+                    <img src="../../static/img/shangjia-1.png" alt="">
+                    <div>金汉斯（大经街店）</div>
+                  </div>
+                  <div class="icon">
+                    <img src="../../static/img/icon1.png" alt="">
+                  </div>
+                </div>
+                <div class="evaluate">
+                  <div>
+                    <img src="" alt="">
+                    <span>3092人评价</span>
+                  </div>
+                  <div>
+                    <span>美食</span>
+                    <span>桥东区</span>
+                  </div>
+                </div>
+                <div class="num">
+                  <p><span>¥53</span><span>起</span></p>
+                  <p>人均<span>¥47</span></p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div>
+                <img class="list-img" src="../../static/img/meishi-5.png" alt="">
+              </div>
+              <div class="content-box">
+                <div class="title">
+                  <div class="merchant">
+                    <img src="../../static/img/shangjia-1.png" alt="">
+                    <div>金汉斯（大经街店）</div>
+                  </div>
+                  <div class="icon">
+                    <img src="../../static/img/icon1.png" alt="">
+                  </div>
+                </div>
+                <div class="evaluate">
+                  <div>
+                    <img src="" alt="">
+                    <span>3092人评价</span>
+                  </div>
+                  <div>
+                    <span>美食</span>
+                    <span>桥东区</span>
+                  </div>
+                </div>
+                <div class="num">
+                  <p><span>¥53</span><span>起</span></p>
+                  <p>人均<span>¥47</span></p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div>
+                <img class="list-img" src="../../static/img/meishi-5.png" alt="">
+              </div>
+              <div class="content-box">
+                <div class="title">
+                  <div class="merchant">
+                    <img src="../../static/img/shangjia-1.png" alt="">
+                    <div>金汉斯（大经街店）</div>
+                  </div>
+                  <div class="icon">
+                    <img src="../../static/img/icon1.png" alt="">
+                  </div>
+                </div>
+                <div class="evaluate">
+                  <div>
+                    <img src="" alt="">
+                    <span>3092人评价</span>
+                  </div>
+                  <div>
+                    <span>美食</span>
+                    <span>桥东区</span>
+                  </div>
+                </div>
+                <div class="num">
+                  <p><span>¥53</span><span>起</span></p>
+                  <p>人均<span>¥47</span></p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div>
+                <img class="list-img" src="../../static/img/meishi-5.png" alt="">
+              </div>
+              <div class="content-box">
+                <div class="title">
+                  <div class="merchant">
+                    <img src="../../static/img/shangjia-1.png" alt="">
+                    <div>金汉斯（大经街店）</div>
+                  </div>
+                  <div class="icon">
+                    <img src="../../static/img/icon1.png" alt="">
+                  </div>
+                </div>
+                <div class="evaluate">
+                  <div>
+                    <img src="" alt="">
+                    <span>3092人评价</span>
+                  </div>
+                  <div>
+                    <span>美食</span>
+                    <span>桥东区</span>
+                  </div>
+                </div>
+                <div class="num">
+                  <p><span>¥53</span><span>起</span></p>
+                  <p>人均<span>¥47</span></p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div>
+                <img class="list-img" src="../../static/img/meishi-5.png" alt="">
+              </div>
+              <div class="content-box">
+                <div class="title">
+                  <div class="merchant">
+                    <img src="../../static/img/shangjia-1.png" alt="">
+                    <div>金汉斯（大经街店）</div>
+                  </div>
+                  <div class="icon">
+                    <img src="../../static/img/icon1.png" alt="">
+                  </div>
+                </div>
+                <div class="evaluate">
+                  <div>
+                    <img src="" alt="">
+                    <span>3092人评价</span>
+                  </div>
+                  <div>
+                    <span>美食</span>
+                    <span>桥东区</span>
+                  </div>
+                </div>
+                <div class="num">
+                  <p><span>¥53</span><span>起</span></p>
+                  <p>人均<span>¥47</span></p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div>
+                <img class="list-img" src="../../static/img/meishi-5.png" alt="">
+              </div>
+              <div class="content-box">
+                <div class="title">
+                  <div class="merchant">
+                    <img src="../../static/img/shangjia-1.png" alt="">
+                    <div>金汉斯（大经街店）</div>
+                  </div>
+                  <div class="icon">
+                    <img src="../../static/img/icon1.png" alt="">
+                  </div>
+                </div>
+                <div class="evaluate">
+                  <div>
+                    <img src="" alt="">
+                    <span>3092人评价</span>
+                  </div>
+                  <div>
+                    <span>美食</span>
+                    <span>桥东区</span>
+                  </div>
+                </div>
+                <div class="num">
+                  <p><span>¥53</span><span>起</span></p>
+                  <p>人均<span>¥47</span></p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div>
+                <img class="list-img" src="../../static/img/meishi-5.png" alt="">
+              </div>
+              <div class="content-box">
+                <div class="title">
+                  <div class="merchant">
+                    <img src="../../static/img/shangjia-1.png" alt="">
+                    <div>金汉斯（大经街店）</div>
+                  </div>
+                  <div class="icon">
+                    <img src="../../static/img/icon1.png" alt="">
+                  </div>
+                </div>
+                <div class="evaluate">
+                  <div>
+                    <img src="" alt="">
+                    <span>3092人评价</span>
+                  </div>
+                  <div>
+                    <span>美食</span>
+                    <span>桥东区</span>
+                  </div>
+                </div>
+                <div class="num">
+                  <p><span>¥53</span><span>起</span></p>
+                  <p>人均<span>¥47</span></p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div>
+                <img class="list-img" src="../../static/img/meishi-5.png" alt="">
+              </div>
+              <div class="content-box">
+                <div class="title">
+                  <div class="merchant">
+                    <img src="../../static/img/shangjia-1.png" alt="">
+                    <div>金汉斯（大经街店）</div>
+                  </div>
+                  <div class="icon">
+                    <img src="../../static/img/icon1.png" alt="">
+                  </div>
+                </div>
+                <div class="evaluate">
+                  <div>
+                    <img src="" alt="">
+                    <span>3092人评价</span>
+                  </div>
+                  <div>
+                    <span>美食</span>
+                    <span>桥东区</span>
+                  </div>
+                </div>
+                <div class="num">
+                  <p><span>¥53</span><span>起</span></p>
+                  <p>人均<span>¥47</span></p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div>
+                <img class="list-img" src="../../static/img/meishi-5.png" alt="">
+              </div>
+              <div class="content-box">
+                <div class="title">
+                  <div class="merchant">
+                    <img src="../../static/img/shangjia-1.png" alt="">
+                    <div>金汉斯（大经街店）</div>
+                  </div>
+                  <div class="icon">
+                    <img src="../../static/img/icon1.png" alt="">
+                  </div>
+                </div>
+                <div class="evaluate">
+                  <div>
+                    <img src="" alt="">
+                    <span>3092人评价</span>
+                  </div>
+                  <div>
+                    <span>美食</span>
+                    <span>桥东区</span>
+                  </div>
+                </div>
+                <div class="num">
+                  <p><span>¥53</span><span>起</span></p>
+                  <p>人均<span>¥47</span></p>
+                </div>
+              </div>
+            </li>
+            <li>
+            <div>
+              <img class="list-img" src="../../static/img/meishi-5.png" alt="">
+            </div>
+            <div class="content-box">
+              <div class="title">
+                <div class="merchant">
+                  <img src="../../static/img/shangjia-1.png" alt="">
+                  <div>金汉斯（大经街店）</div>
+                </div>
+                <div class="icon">
+                  <img src="../../static/img/icon1.png" alt="">
+                </div>
+              </div>
+              <div class="evaluate">
+                <div>
+                  <img src="" alt="">
+                  <span>3092人评价</span>
+                </div>
+                <div>
+                  <span>美食</span>
+                  <span>桥东区</span>
+                </div>
+              </div>
+              <div class="num">
+                <p><span>¥53</span><span>起</span></p>
+                <p>人均<span>¥47</span></p>
+              </div>
+            </div>
+          </li>
+          </ul>
+        </div>
+      </div>
     </div>
 </template>
 <script>
@@ -322,6 +628,7 @@
     box-sizing: border-box;
     width: 11.26rem;
     background-color: #fff;
+    margin-top: .1rem;
   }
   .list-box{
     width: 11.26rem;
@@ -333,6 +640,8 @@
     flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
+    padding: 0;
+    margin: 0;
   }
   .list-box li{
     display: flex;

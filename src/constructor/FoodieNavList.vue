@@ -22,12 +22,17 @@
         </div>
       </form>
     </div>
-    <generalList></generalList>
+    <div class="list-box">
+      <generalList></generalList>
+      <downPhone></downPhone>
+    </div>
+
   </div>
 
 </template>
 <script>
     import GeneralList from '../constructor/GeneralList.vue'
+    import DownPhone from '../constructor/DownPhone.vue'
     export default {
         data(){
             return {
@@ -44,6 +49,7 @@
         },
         components: {
           GeneralList,
+          DownPhone,
         },
         methods: {
           selectStyle (event,index) {
@@ -113,5 +119,9 @@
   }
   .tab-input div input{
     cursor: pointer;
+  }
+  .list-box{
+    display: flex;
+    flex-direction: row;
   }
 </style>
