@@ -8,7 +8,14 @@
       <navSearch></navSearch>
       <homeNavList></homeNavList>
       <hotelMap></hotelMap>
-      <hotelModel></hotelModel>
+      <!--这是今日特价-->
+      <hotelModel :price="true" :hotel="false"></hotelModel>
+      <!--这是酒店列表-->
+      <hotelModel :hotel="true" :price="false"></hotelModel>
+      <!--这是品牌旗舰店-->
+      <hotelBrand></hotelBrand>
+      <!--这是酒店的底部导航列表-->
+      <bottomTab></bottomTab>
     </div>
   </div>
 </template>
@@ -18,6 +25,8 @@
   import HomeNavList from '../constructor/HomeNavList.vue'
   import HotelMap from '../constructor/HotelMap.vue'
   import HotelModel from '../constructor/HotelModel.vue'
+  import HotelBrand from '../constructor/HotelBrand.vue'
+  import BottomTab from '../constructor/BottomTab.vue'
   export default {
     data(){
       return {}
@@ -28,6 +37,8 @@
       HomeNavList,
       HotelMap,
       HotelModel,
+      HotelBrand,
+      BottomTab,
     },
     methods: {}
   }
