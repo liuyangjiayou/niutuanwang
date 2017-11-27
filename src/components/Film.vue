@@ -6,16 +6,18 @@
     <div class="main">
       <navSearch></navSearch>
       <homeNavList></homeNavList>
-      <!--这是电影下面的导航与swiper-->
-      <filmSwiper></filmSwiper>
     </div>
+    <!--这是电影下面的导航与swiper-->
+    <filmNav></filmNav>
+    <router-view></router-view>
   </div>
 </template>
 <script>
   import NavHeader from '../constructor/NavHeader.vue'
   import NavSearch from '../constructor/NavSearch.vue'
   import HomeNavList from '../constructor/HomeNavList.vue'
-  import FilmSwiper from '../constructor/FilmSwiper.vue'
+
+  import FilmNav from '../constructor/FilmNav.vue'
   export default {
     data(){
       return {}
@@ -24,7 +26,8 @@
       NavHeader,
       NavSearch,
       HomeNavList,
-      FilmSwiper,
+      FilmNav,
+
     },
     methods: {}
   }
