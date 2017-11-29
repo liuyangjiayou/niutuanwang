@@ -1,4 +1,5 @@
 <template>
+  <!--这是电影页面-->
   <div>
     <!--这是页面的上导航条-->
     <navHeader></navHeader>

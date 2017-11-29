@@ -6,6 +6,8 @@
     <div class="main">
       <navSearch></navSearch>
       <homeNavList></homeNavList>
+      <classifyNav></classifyNav>
+      <foodieNavList></foodieNavList>
     </div>
   </div>
 </template>
@@ -13,6 +15,8 @@
   import NavHeader from '../constructor/NavHeader.vue'
   import NavSearch from '../constructor/NavSearch.vue'
   import HomeNavList from '../constructor/HomeNavList.vue'
+  import ClassifyNav from '../constructor/ClassifyNav.vue'
+  import FoodieNavList from '../constructor/FoodieNavList.vue'
   export default {
     data(){
       return {}
@@ -21,6 +25,8 @@
       NavHeader,
       NavSearch,
       HomeNavList,
+      ClassifyNav,
+      FoodieNavList,
     },
     methods: {}
   }

@@ -11,7 +11,7 @@ import TakeOut from '../components/TakeOut'
 import Travel from '../components/Travel'
 import Beauty from '../components/Beauty'
 //这是电影页面的路由
-import FilmHome from '../constructor/FilemHome.vue'
+import FilmHome from '../constructor/FilmHome.vue'
 
 
 
@@ -20,7 +20,7 @@ Vue.use(Router);
 export default new Router({
   routes: [
     {
-      path: '/',
+      path: '/home',
       component: Home,
     },
     {
@@ -34,6 +34,10 @@ export default new Router({
         {
           path : '/film/home',
           component : FilmHome
+        },
+        {
+          path : '/film',
+          redirect : {path : '/film/home'},
         }
       ]
     },

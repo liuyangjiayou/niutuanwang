@@ -4,7 +4,7 @@
       <!--这是导航列表-->
       <div class="nav-list">
         <div>全部分类</div>
-        <router-link to="/">首页</router-link>
+        <router-link to="/home">首页</router-link>
         <router-link to="/cate">美食</router-link>
         <router-link to="/hotel">酒店</router-link>
         <router-link to="/film">电影</router-link>
@@ -62,6 +62,9 @@
     color: #fff;
   }
   .nav-list .router-link-exact-active{
+    color: #f48d24;
+  }
+  .nav-list .router-link-active{
     color: #f48d24;
   }
 </style>

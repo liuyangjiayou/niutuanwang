@@ -1,4 +1,5 @@
 <template>
+  <!--这是外卖页面-->
   <div>
     <!--这是页面的上导航条-->
     <navHeader></navHeader>
@@ -6,6 +7,7 @@
     <div class="main">
       <navSearch></navSearch>
       <homeNavList></homeNavList>
+      <takeOutTab></takeOutTab>
     </div>
   </div>
 </template>
@@ -13,6 +15,7 @@
   import NavHeader from '../constructor/NavHeader.vue'
   import NavSearch from '../constructor/NavSearch.vue'
   import HomeNavList from '../constructor/HomeNavList.vue'
+  import TakeOutTab from '../constructor/TakeOutTab.vue'
   export default {
     data(){
       return {}
@@ -21,6 +24,7 @@
       NavHeader,
       NavSearch,
       HomeNavList,
+      TakeOutTab,
     },
     methods: {}
   }

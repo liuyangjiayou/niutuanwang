@@ -1,4 +1,5 @@
 <template>
+  <!--这是电影首页的slider-->
   <swiper class="swiper" :options="swiperOption" ref="mySwiper">
     <swiper-slide>
       <div class="swiper-slide">
